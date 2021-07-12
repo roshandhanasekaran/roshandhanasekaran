@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there Its me Roshan 👋
 
-<!--
-**roshandhanasekaran/roshandhanasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gist about me:
 
-Here are some ideas to get you started:
+- 🔭 I,m currently working on developing new skill on to become a efficent coder
+- 🌱 I’m currently learning creating IOS apps from scratch using Xcode 
+- 👯 I’m looking to collaborate on being a efficent coder and a boxer 
+- 💬 Ask me about javascrip, Html, css, swift i got ypur back  
+- 📫 How to reach me: messirosh@gmail.com 
+- 🥇 If you ain't first your last 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#HappyCoding
